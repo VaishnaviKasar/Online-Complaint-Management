@@ -88,5 +88,3 @@ Gained hands-on backend development experience
 👩‍💻 Developed By
 Vaishnavi Kasar
 Java Full Stack Developer
-
-loper
